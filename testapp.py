@@ -1,4 +1,3 @@
-from audio_recorder_streamlit import audio_recorder
 import streamlit as st
 import sounddevice as sd
 import speech_recognition as sr
